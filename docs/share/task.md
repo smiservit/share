@@ -1,7 +1,7 @@
 ---
 share: "true"
 ---
-obsidian://advanced-uri?vault=obsidian&filepath=testing%252F%25D0%2597%25D0%25B0%25D0%25B4%25D0%25B0%25D1%2587%25D0%25B0.pdf
+![Задача.pdf](./%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.pdf)
 # 12
 ---
 - 11111
